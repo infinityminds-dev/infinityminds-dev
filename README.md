@@ -16,13 +16,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=infinityminds-dev&theme=github_dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityminds-dev&theme=github_dark&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies (Alternative)
+## 🏆 GitHub Achievements & Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/stats/render_repository_badge?username=infinityminds-dev&repository=infinityminds-dev&theme=radical" />
-<img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
