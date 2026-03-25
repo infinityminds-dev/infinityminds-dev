@@ -18,7 +18,7 @@
 
 ## 🏆 GitHub Trophies (Alternative)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/stats/render_repository_badge?username=infinityminds-dev&repository=INFINITYFocus&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/stats/render_repository_badge?username=infinityminds-dev&repository=infinityminds-dev&theme=radical" />
 <img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github" />
 </p>
