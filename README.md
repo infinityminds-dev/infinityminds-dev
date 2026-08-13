@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">💫 About Me</h1>
+
 🔭 **Currently working on:** Building Infinity Focus (Android App) & C# Game Projects.  
 👯 **Looking to collaborate on:** Open-source Cybersecurity tools & Game Architecture.  
 🤝 **Looking for help with:** Advanced C# Logic, Unity Engine, and Secure Coding.  
@@ -8,15 +9,26 @@
 
 ---
 
-## 🌐 Socials & Links:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VyJgWeaJ2) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajsingh9w7@gmail.com) 
+<h2 align="center">🌐 Socials & Links</h2>
+
+<p align="center">
+  <a href="https://discord.gg/VyJgWeaJ2">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:pankajsingh9w7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=infinityminds-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-# 💻 Tech Stack & Tools:
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
-### 🚀 Programming Languages:
+### 🚀 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +37,7 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🛠 Tools & Engines:
+### 🛠 Tools & Engines
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Unity](https://img.shields.io/badge/UNITY-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
@@ -41,7 +53,7 @@
 ![Blender](https://img.shields.io/badge/BLENDER-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![SketchUp](https://img.shields.io/badge/SKETCHUP-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
-### 🎮 Gaming Platforms:
+### 🎮 Gaming Platforms
 ![Epic Games](https://img.shields.io/badge/EPIC_GAMES-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
 ![Ubisoft](https://img.shields.io/badge/UBISOFT-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) 
 ![Steam](https://img.shields.io/badge/STEAM-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
@@ -49,33 +61,72 @@
 
 ---
 
-# 📊 GitHub Overview & Stats:
+<h2 align="center">📊 GitHub Overview & Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infinityminds-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityminds-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=infinityminds-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=infinityminds-dev&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinityminds-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=infinityminds-dev&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=infinityminds-dev&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinityminds-dev&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=infinityminds-dev&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 GitHub Badges:
-<p align="left">
+<h2 align="center">🏆 Badges</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  👀 <b>Profile Visits:</b><br/>
-  <img src="https://visitcount.itsvg.in/api?id=infinityminds-dev&icon=0&color=0" alt="Visitor Count" />
 </p>
