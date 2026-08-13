@@ -18,10 +18,7 @@
   <a href="mailto:pankajsingh9w7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infinityminds-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=infinityminds-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -124,9 +121,14 @@
 
 ---
 
-<h2 align="center">🏆 Badges</h2>
+<h2 align="center">🏆 Badges & Quotes</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
