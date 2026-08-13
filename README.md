@@ -125,9 +125,7 @@
 <h2 align="center">🏆 Badges & Quotes</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=infinityminds-dev&theme=tokyonight&no-frame=true&column=6" alt="infinityminds-dev trophies" />
 </p>
 
 <p align="center">
