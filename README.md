@@ -122,13 +122,23 @@
 
 ---
 
-<h2 align="center">🏆 Badges & Achievements</h2>
+<h2 align="center">🏆 Achievements & Milestones</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Trophy-Gold_Developer-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Game_Dev-Unity_%26_Unreal-00599C?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Dev-Active-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Commits-84+-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Rank-Contributor-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active_Coder-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+<h2 align="center">💭 Daily Developer Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
