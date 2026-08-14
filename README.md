@@ -18,6 +18,9 @@
   <a href="mailto:pankajsingh9w7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.credly.com/users/pankaj-panwar.ed223ee1" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco_Certifications-008080?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certifications" />
+  </a>
   <img src="https://img.shields.io/github/followers/infinityminds-dev?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=infinityminds-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
