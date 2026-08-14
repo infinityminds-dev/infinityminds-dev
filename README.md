@@ -100,9 +100,9 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>📊 Top Languages</h3>
+      <h3>📊 Languages Overview</h3>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityminds-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityminds-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=infinityminds-dev"
         alt="Top Languages"
         width="100%"
       />
