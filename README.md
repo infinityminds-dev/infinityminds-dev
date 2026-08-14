@@ -108,16 +108,18 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
+      <h3>📊 Top Languages</h3>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinityminds-dev&theme=tokyonight"
-        alt="Languages by Repository"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityminds-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Top Languages"
         width="100%"
       />
     </td>
     <td width="50%" align="center">
+      <h3>📈 Most Used Languages</h3>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=infinityminds-dev&theme=tokyonight"
-        alt="Languages by Commit"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinityminds-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Most Commit Languages"
         width="100%"
       />
     </td>
