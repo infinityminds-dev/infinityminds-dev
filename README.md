@@ -144,12 +144,13 @@
   <a href="https://www.credly.com/badges/d1251ff2-654f-4cbd-8a54-75632d92e60d" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cybersecurity Badge" />
   </a>
-  <a href="https://www.credly.com/badges/08b6884e-6ba9-4ff5-a42a-7bb5329cc41d" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco-Linux_Unhatched-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
-  </a>
   <a href="https://www.credly.com/badges/85da827e-a1cd-4ce0-91c5-1d466e1e0c59" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Cisco-Linux_Unhatched-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
+</a>
+<a href="https://www.credly.com/badges/08b6884e-6ba9-4ff5-a42a-7bb5329cc41d" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking Badge" />
+</a>
+  
   <a href="https://www.credly.com/badges/5515bd49-b2d1-4d85-8950-1f40abf9bfcb" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   </a>
