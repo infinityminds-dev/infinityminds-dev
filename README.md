@@ -89,7 +89,8 @@
     <td width="75%" align="center">
       <h3>📈 Contribution Activity</h3>
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=infinityminds-dev&theme=tokyo-night&hide_border=true&area=true&height=180"
+        ![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=infinityminds-dev&
+      theme=tokyo-night&hide_border=true&area=true&height=180"
         alt="Contribution Activity"
         width="100%"
       />
