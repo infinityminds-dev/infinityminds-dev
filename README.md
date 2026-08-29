@@ -88,7 +88,7 @@
   <tr>
     <td width="75%" align="center">
       <h3>📈 Contribution Activity</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infinityminds-dev&theme=tokyo-night" alt="GitHub Profile Summary" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=infinityminds-dev&show_icons=true&theme=tokyo-night" alt="GitHub Stats" width="100%" />
     </td>
     <td width="25%" align="center">
       <h3>📌 GitHub Overview</h3>
