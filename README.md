@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![]([https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white))
 
 ### 🛠 Tools & Engines
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
