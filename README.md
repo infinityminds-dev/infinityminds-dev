@@ -1,10 +1,9 @@
 <h1 align="center">💫 About Me</h1>
 
-🔭 **Currently working on:** Building Infinity Focus (Android App) & C# Game Projects.  
-👯 **Looking to collaborate on:** Open-source Cybersecurity tools & Game Architecture.  
-🤝 **Looking for help with:** Advanced C# Logic, Unity Engine, and Secure Coding.  
-🌱 **Currently learning:** C#, Unity Game Development, and Software Architecture.  
-💬 **Ask me about:** Android Dev, Logic Building, and C# Programming.  
+🔭 **Currently working on:** Building Infinity AI hub & Low-Level C/C++ System Projects
+🤝 **Looking to collaborate on:** Open-source Cybersecurity Tools, Network Protocol Analyzers & Game Architecture
+🌱 **Currently learning:** C/C++, Network Protocols (TCP/IP), Assembly & System Security
+💬 **Ask me about:** C/C++ Logic, Terminal Workflows, Linux & Networking Basics
 ⚡ **Fun fact:** Real engineering happens offline—if you can't control it without a wire, you don't own it.
 
 ---
