@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center">🌐 Socials & Links</h2>
-
+<img src="https://img.shields.io/badge/INFINITYMinds-Cyber%20security%20-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=000000" alt="42 badge"/>
 <p align="center">
   <a href="https://discord.gg/VyJgWeaJ2">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
