@@ -1,9 +1,9 @@
 <h1 align="center">💫 About Me</h1>
 
-🔭 **Currently working on:** Building Infinity AI hub & Low-Level C/C++ System Projects
-🤝 **Looking to collaborate on:** Open-source Cybersecurity Tools, Network Protocol Analyzers & Game Architecture
-🌱 **Currently learning:** C/C++, Network Protocols (TCP/IP), Assembly & System Security
-💬 **Ask me about:** C/C++ Logic, Terminal Workflows, Linux & Networking Basics
+🔭 **Currently working on:** Building Infinity AI hub & Low-Level C/C++ System Projects <br>
+🤝 **Looking to collaborate on:** Open-source Cybersecurity Tools, Network Protocol Analyzers & Game Architecture <br>
+🌱 **Currently learning:** C/C++, Network Protocols (TCP/IP), Assembly & System Security <br>
+💬 **Ask me about:** C/C++ Logic, Terminal Workflows, Linux & Networking Basics <br>
 ⚡ **Fun fact:** Real engineering happens offline—if you can't control it without a wire, you don't own it.
 
 ---
