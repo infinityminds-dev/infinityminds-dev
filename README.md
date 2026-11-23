@@ -1,11 +1,10 @@
 <h1 align="center">💫 About Me</h1>
 
-🔭 **Currently working on:** Building Infinity AI hub & Low-Level C/C++ System Projects <br>
-🤝 **Looking to collaborate on:** Open-source Cybersecurity Tools, Network Protocol Analyzers & Game Architecture <br>
-🌱 **Currently learning:** C/C++, Network Protocols (TCP/IP), Assembly & System Security <br>
-💬 **Ask me about:** C/C++ Logic, Terminal Workflows, Linux & Networking Basics <br>
+🔭 **Currently working on:** Building the INFINITYMinds website backend with Node.js. <br>
+🌱 **Currently learning:** Node.js, Backend Development & Database Integration. <br>
+💻 **Interests:** C/C++, Low-Level Programming, Network Protocols, Cybersecurity & Game Development. <br>
+💬 **Ask me about:** C/C++ Logic, Terminal Workflows, Linux & Networking Basics. <br>
 ⚡ **Fun fact:** Real engineering happens offline—if you can't control it without a wire, you don't own it.
-
 ---
 
 <h2 align="center">🌐 Socials & Links</h2>
